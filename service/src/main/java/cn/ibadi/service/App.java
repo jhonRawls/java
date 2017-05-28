@@ -1,4 +1,4 @@
-package java;
+package cn.ibadi.service;
 
 /**
  * Hello world!

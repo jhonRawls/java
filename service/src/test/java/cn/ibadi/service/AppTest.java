@@ -1,4 +1,4 @@
-package java;
+package cn.ibadi.service;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
